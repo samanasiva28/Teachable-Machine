@@ -60,6 +60,7 @@
         }
 
         // finally draw the poses
+        // THE POSES MUST BE FOLLWED WITH UNIQUE ORDER.
         drawPose(pose);
     }
 
